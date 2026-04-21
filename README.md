@@ -44,8 +44,5 @@ The application adapts automatically:
 - Clean and modern card layout
 - Images loaded from https://picsum.photos/
 
-## 🔗 GitHub Repository
-(Add your repository link here)
-
 ## 👩‍💻 Author
 Nahomi Mercado Loaiza
