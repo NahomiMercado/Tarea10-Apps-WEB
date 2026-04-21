@@ -1,0 +1,36 @@
+body {
+  background: linear-gradient(135deg, #e9d5ff, #c4b5fd);
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  color: #6d28d9;
+  font-weight: bold;
+}
+
+.card {
+  border-radius: 20px;
+  border: none;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: #faf5ff;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 25px rgba(0,0,0,0.15);
+}
+
+.card img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-text {
+  color: #4c1d95;
+  font-size: 15px;
+}
